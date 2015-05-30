@@ -17,6 +17,7 @@ starter app for the ionic framework with:
 + Init the application:
 `gulp`
 
+### start a new project:
 Make a bare clone of the repository
 `git clone --bare https://github.com/exampleuser/old-repository.git`
 
