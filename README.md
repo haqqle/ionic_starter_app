@@ -17,4 +17,15 @@ starter app for the ionic framework with:
 + Init the application:
 `gulp`
 
+Make a bare clone of the repository
+`git clone --bare https://github.com/exampleuser/old-repository.git`
+
+
+Mirror-push to the new repository
+`cd old-repository.git`
+
+`git push --mirror https://github.com/exampleuser/new-repository.git`
+
+
+
 
