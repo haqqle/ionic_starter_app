@@ -5,7 +5,7 @@ angular.module('appControllers').controller 'StartController', ($scope) ->
   onVisit = () ->
     initActions()
     initEvents()
-    console.log init 'StartController'
+    console.log 'init StartController'
 
   initActions = () ->
 
